@@ -25,9 +25,17 @@ If you would like to refresh you knowledge of the tool, the slides from the Intr
 
 ### Slides
 
-Slides for the course will be made available here on September 6th 2021.
+```{r, echo = FALSE}
 
-<!-- [Course slides](https://mcguinlu.github.io/ESI-ROB2-facilitator/day1/session1.html) -->
+if (Sys.Date() < "2021-09-06") {
+  x<-"Slides for the course will be made available here on September 6th 2021."
+} else {
+  x<-"[Course slides](https://mcguinlu.github.io/ESI-ROB2-facilitator/day1/session1.html)"
+}
+
+``` 
+
+`r x`
 
 <hr>
 
