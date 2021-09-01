@@ -1,6 +1,6 @@
 ---
-title: "<div align=\"center\">Evidence Synthesis Ireland:<br>Introduction to Risk of Bias 2.0</div>"
-date: "<div align=\"center\"> 6th/7th July 2021 | Online | Facilitator: <a href='https://www.lukemcguinness.com'>Luke McGuinness</a></div> "
+title: "<div align=\"center\">Evidence Synthesis Ireland:<br>Risk of Bias 2.0 Facilitator Training</div>"
+date: "<div align=\"center\"> 6th Sept 2021 | Online | Facilitator: <a href='https://www.lukemcguinness.com'>Luke McGuinness</a></div> "
 output: 
   html_document:
     css: day1/custom.css
@@ -9,40 +9,23 @@ output:
 
 ## Welcome to the course! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">
 
-I am very much looking forward to meeting you all in early July!
-
-__Note that while there are no formal prerequisites for this course__, I would encourage you to familiarise yourself with the example RCT we will be using throughout (see the [Course Resources](#demo) section). There will be (limited) time to read the paper on the day, but doing so in advance will allow you to jump straight into applying the RoB2 tool.
+I am very much looking forward to meeting you all in early September!
 
 <hr>
 
-### Slides
+### Prerequisites
 
-#### Day 1
+You will get most out of this course if took part in the ESI Intro to RoB 2 course on July 6/7th 2021 (or any other RoB 2 introductory training), and/or have extensive experience of using the tool in systematic reviews.
 
-[Session slides](https://mcguinlu.github.io/ESI-ROB2-intro/day1/session1.html)
-
-<br>
-
-#### Day 2
-
-[Session slides](https://mcguinlu.github.io/ESI-ROB2-intro/day2/session2.html)
+If you would like to refresh you knowledge of the tool, the slides from the Introductory course are below:  
+- [Intro Course Day 1 Slides](https://mcguinlu.github.io/ESI-ROB2-intro/day1/session1.html)  
+- [Intro Course Day 2 Slides](https://mcguinlu.github.io/ESI-ROB2-intro/day2/session2.html)
 
 <hr>
+
 ### Course Resources
 
-#### Example RCT: The DEMO trial {#demo}
-
-Over the course of the two days, we will assess an example published RCT using the RoB 2 tool. Details of this trial, plus PDF versions of the trial protocol and resulting publication, are provided below.
-
-__Citation:__ Krogh, Jesper, Bengt Saltin, and Merete Nordentoft. "The DEMO trial: a randomized, parallel-group, observer-blinded clinical trial of strength versus aerobic versus relaxation training for patients with mild to moderate depression." _The Journal of Clinical Psychiatry_ 70.6 (2009): 790-800.
-
-[Protocol (PDF)](https://mcguinlu.github.io/ESI-ROB2-intro/resources/DEMO_Protocol_Krogh_2007.pdf) | [Paper (PDF)](https://mcguinlu.github.io/ESI-ROB2-intro/resources/DEMO_Trial_Krogh_2009.pdf) 
-
-<br>
-
-#### General resources
-
-[Course programme (PDF)](https://mcguinlu.github.io/ESI-ROB2-intro/resources/RoB2_Intro_ESI_Programme.pdf)
+[Course programme (PDF)](https://mcguinlu.github.io/ESI-ROB2-intro/resources/RoB2_Trainer_ESI_Programme.pdf)
 
 [RoB 2 Website](https://www.riskofbias.info/welcome/rob-2-0-tool)
 
