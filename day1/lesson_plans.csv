@@ -1,9 +1,13 @@
 topic,v,vv,vvv,vvvv
 Bias in context of RoB 2,X,X,X,X
 Motivation for new tool,,,X,X
-test,,,X,X
-Domains,D1 + D2,"D1, D2 + D5",All,All
+Risk of bias in randomised controlled trials,,,,
+Domains of bias,,,,
+,,,,
+"Tool structure (signalling questions, domain and overall judgements)",,,X,X
+,,,,
+Domain walk-through,D1 + D2,"D1, D2 + D5",All,All
 test,,,,X
 test,,,,X
-test,,,,X
+Resources,X,X,X,X
 Visualising and incorporating results,,,,X
