@@ -46,7 +46,7 @@ body {
 
 .largest { font-size: 200% }
 .larger { font-size: 130% }
-.small { font-size: 80% }
+.small { font-size: 60% }
 
 .tricolhead {
   background-color: Gainsboro;
@@ -81,11 +81,29 @@ body {
     width: 100%;
 }
 
+
+.footer2 {
+    position: absolute;
+    text-align: right;
+    bottom: 35px;
+    font-size: 70%;
+    right: 5px;
+    height: 25px;
+}
+
 .large {
   font-size: 40px;
 }
 
 .right-column {
     padding-top: 0em;
+}
+
+.ul {
+  margin-top: 0px;
+}
+
+.remark-slide table{
+    width: 100%;
 }
 
