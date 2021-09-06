@@ -40,7 +40,7 @@ class: large
 
 ## Overview of this course
 
-* Advance course for RoB2 
+* Advanced course for RoB2 trainers
 
 ???
 
@@ -48,11 +48,12 @@ __Don't forget to introduce yourself__
 
 * NIHR DRF/PhD Student
 * Working in BARR wiht Julian Higgins
-* Presented previous webinar on this tool and asked back
-* Delivered
+* Delivered ESI Intro to RoB2 training earlier in the summer
 * Work mainly on incorporate of RoB into analyses
 
-(today and tomorrow)
+This course is for those who attended the course in July/have extensive experience of the tool.
+
+<hr>
 
 --
 
@@ -66,13 +67,15 @@ __Don't forget to introduce yourself__
 
 Session introducing domain, followed by practical to apply it
 
+<hr>
+
 --
 
-Materials: __https://mcguinlu.github.io/ESI-ROB2-intro/__
+* Materials: [https://mcguinlu.github.io/ESI-ROB2-intro/](https://mcguinlu.github.io/ESI-ROB2-intro/)
 
 ???
 
-Slides for today available now
+Slides for today available now, along with files for the practicals.
 
 Cover how to download - any issues let me know.
 
@@ -80,7 +83,7 @@ Cover how to download - any issues let me know.
 
 ## Zoom etiquette
 
-.larger[Yes/No check-marks for __rapid feedback__]
+.larger[Yes/No check-marks (for __rapid feedback__])
 
 ???
 
@@ -102,7 +105,7 @@ Please add questions to the chat as we go along - question breaks built into the
 
 <br>
 
-.larger[Discussion]
+.larger[Discussion (please say your __name__)]
 
 ???
 
@@ -112,7 +115,7 @@ Please add questions to the chat as we go along - question breaks built into the
 
 # Acknowledgements/Declarations
 
-.small[
+.smaller[
 Slides based in part on training delivered by: Julian Higgins, Jonathan Sterne, Jelena Savović, Matthew Page, Asbjørn Hróbjartsson, Isabelle Boutron, Theresa Moore & Alexandra McAleenan
 
 I am supported by an National Institute for Health Research (NIHR; https://www.nihr.ac.uk/) Doctoral Research Fellowship (DRF-2018-11-ST2-048).
@@ -127,7 +130,7 @@ MRC and NIHR as relevant funders
 ---
 
 # ROB2 Core Group
-.small[
+.smaller[
 __Core group:__ Julian Higgins, Jonathan Sterne, Jelena Savović, Matthew Page, Asbjørn Hróbjartsson, Isabelle Boutron, Barney Reeves, Roy Elbers
 
 __Contributors:__ Natalie Blencowe, Marion Campbell, Mike Campbell, Christopher Cates, Vincent Cheng, Rachel Churchill, Mark Corbett, Nicky Cullum, Francois Curtin, Amy Drahota, Sandra Eldridge, Jonathan Emberson, Bruno Giraudeau, Jeremy Grimshaw, Miguel Hernán, Sally Hopewell, Daniela Junqueira, Peter Jüni, Jamie Kirkham, Toby Lasserson, Tianjing Li, Alexandra McAleenan, Stephen Senn, Sasha Shepperd, Ian Shrier, Nandi Siegfried, Lesley Stewart, Kate Tilling, Ian White, Penny Whiting
@@ -169,17 +172,25 @@ Throughout, I have sought to provide links to further reading and relevant empir
 
 class: inverse, center, middle
 
-# Recap of intro course
+# Recap of introductory course/<br>Order of topics
 
 ???
 
-I'm going to try something a little bit different today, and run through the 
+I'm going to try something a little bit different today, and run through the original Intro coures both to:
+* Recap briefly on what was covered
+* Justify the order of introduction
 
 ---
 
 ## What is bias?
 
 A __systematic error__, or deviation from the truth, in results
+
+???
+
+Good place to start - introduces bias and makes sure attendees are clear on the point of the tool.
+
+In particular, good to distinguish from:
 
 --
 
@@ -243,6 +254,14 @@ Reporting is improving with initiatives like the CONSORT statement. It is import
 
 ???
 
+We then covered
+
+Presenting in the context of the original tool allows you to bring along anyone who has used the original version and provide a brief history lesson for anyone who hasn't.
+
+Might not want to include this bt
+
+<hr>
+
 The first ROB tool was developed and published in 2008 with revisions in 2011 
 
 It has been used by 100% of Cochrane reviews of interventions since 2014
@@ -254,40 +273,11 @@ It has been used by 100% of Cochrane reviews of interventions since 2014
 
 Used __simplistically__ & __inconsistently__
 
-???
-
-__1__ Guidance not followed, and domains added or removed
-
-<hr>
-
---
-
-Modest __agreement rates__ between assessors
-
-???
-
-__2__ This was partly influence by the overuse of the unclear judgement, which was itself ambiguous.
-
-Can provide references for this if you want
-<hr>
-
---
+Modest __agreement rates__ between assessors.
 
 Issues around __unblinded trials__
 
-???
-
-__3__ Issues with the domain of blinding with users assuming that no blinding meant high risk of bias – which was not what the team had intended and was not  in the guidance.
-
-<hr>
-
---
-
 No __overall__ risk-of-bias judgement
-
-???
-
-__4__ Problematic if you want to carry result of forward for sensitivity analyses/etc. , which we will explore tomorrow afternoon (__SIGNPOST__)
 
 ---
 
@@ -297,41 +287,21 @@ __4__ Problematic if you want to carry result of forward for sensitivity analyse
 .pull-left[.center[.larger[More __accurate__]]]
 <br>
 <br>
-???
-__1__ more comprehensive
-more guidance and structure to improve consistency
-versions appropriate to cluster-randomized trials, cross-over trials
-<hr>
 
---
 .pull-right[.center[.larger[More __usable__]]]
 <br>
 <br>
-???
-???
-__2__ 
-clearer guidance, in-built help in reaching judgements
-<hr>
-
---
 
 .pull-left[.center[<br>.larger[More __current__]]]
 <br>
-???
-__3__
-incorporates developments in the science (particularly missing data, unblinded trials)
-<hr>
-
---
 
 .pull-right[.center[<br>.larger[More __useful__]]]
 
 ???
-__4__
-overall risk of bias judgement feeds into sensitivity analyses/exploration of heterogeneity
-allied to ROBINS-I for non-randomized studies
 
-<hr>
+Run through justification for new tool - providing some examples of each issue. So for usable, you might make reference to better guidance, algorithms
+
+All of this introductory material is building towards:
 
 ---
 
@@ -342,6 +312,9 @@ class: inverse, center, middle
 ---
 
 ## RoB2 assess risk of bias
+
+<!-- TODO text -->
+
 
 ---
 
@@ -975,6 +948,95 @@ Additionally, other scales (Cochrane RoB, Jadad) do not perform better on inter-
 
 ---
 
+class: inverse, center, middle
+
+# Issue: Yes vs Probably Yes
+
+---
+
+## Response options can be confusing
+
+__Reminder:__ the possible responses: .g[‘__Yes__’], .g[‘__Probably yes__’], .r[‘__Probably no__’], .r[‘__No__’], ‘No information’
+
+__Definite__ vs __probable__ indicates level of certainty
+
+???
+
+First time users are often unsure of whether to respond with the definite or probable
+
+A good idea here is to present two responses to the same question where one is slightly less clear.
+
+Important to note as well that they are considered the same from the algorithms point of view.
+
+---
+
+---
+
+class: inverse, center, middle
+
+## Issue: Disagreeing with the algorithm
+
+---
+
+class: center
+
+## Algorithms suggest domain-level judgement
+
+![](../images/d1algorithm.png)
+
+---
+
+## Users take algorithm as gospel
+
+Algorithms are __suggested__ judgements
+
+???
+
+Many reviewers don't feel confident enough to diagree with the algorithm
+
+<hr>
+
+--
+
+```{r, out.width='100%', include=T, echo=F}
+knitr::include_graphics("../images/pirates-caribbean-code.gif")
+```
+
+???
+
+As trainers, remind users they can disgree the domain level-algorithm 
+
+
+---
+
+class: inverse, center, middle
+
+## Issue: Visualising and incorporating RoB 2 results
+
+---
+
+## Visualising and incorporating RoB 2 results
+
+Many users simply perform the assessments and bury the results
+
+Could perform:
+  * Sensitivity analysis (exclude high ROB studies)
+  * Sub-group meta-analysis
+  * Meta-regression
+   
+
+???
+
+You should encourage them to 
+
+---
+
+## Methods for implementation
+
+New methods including paired forest plots are now being implemented in `robvis`
+
+---
+
 ## Sharing justifications
 
 Users should publish the support for thier judgements
@@ -983,15 +1045,17 @@ Like
 
 We are also interested in it for meta-epi reasons
 
+???
+
+On a related note in terms of reporting, you should encourage users
+
+This ties back in with the inter-rater reliability we discussed earlier
 
 ---
 
-## Visualising and incorporating results
+class: inverse, center, middle
 
-Many users simply perform the 
-
-You should encourage them to 
-
+## Issue: Support and guidance
 
 ---
 
@@ -999,23 +1063,34 @@ class: inverse, center, middle
 
 # Practical
 
+??? 
+
+Document available from the course website. Main purpose is to get you thinking about some of the issues I mentioned, and spark some discussion points.
+
 ---
 
-# Some example questions to reinforce learning
+### Q1. What are the advantages of RoB2 over the original Cochrane risk of bias tool? Why should I use it instead if it is harder to apply?
 
-<!-- TODO Do this! -->
+---
 
-__Need to put these in document they can download! + Build answer slides!__
+### Q2. My review is focused on the effect of the intervention in children under 10, but one study included both children and teenagers – is this a risk of bias issue?
 
-I'm looking at a RCT that examined children but I'm interested in adults only, is this a risk of bias problem?
+---
 
-How do I apply ROb2 at scale?
+### Q3. I have finished performing risk-of-bias assessments for all results in my review. What should I do with the results of the assessments?
 
-Can I add a domain to handle COI concerns?
+---
 
-What should I do with my risk fo bias assessments once I have completed them?
+### Q4. I am conducting a very large review (> 100 results). What results should I assess for risk of bias? How do I apply RoB 2 at scale?
 
-What resources exist to support me in completing risk of bias assessments?
+---
+
+### Q5. What resources exist to help me manage and apply RoB2 in my review?
+
+---
+
+### Q6. I am concerned that some studies including in my review were funded by a pharmaceutical company. Can I add an extra domain to the tool to capture this conflict of interest? 
+
 
 ---
 
