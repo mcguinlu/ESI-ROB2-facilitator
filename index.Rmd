@@ -39,6 +39,12 @@ if (Sys.Date() < "2021-09-06") {
 
 <hr>
 
+### Practicals
+
+[Resource for Practical I](https://mcguinlu.github.io/ESI-ROB2-facilitator/resources/RoB2_Facilitators_Practical_I.docx)
+
+[Resource for Practical II](https://mcguinlu.github.io/ESI-ROB2-facilitator/resources/RoB2_Facilitators_Practical_II.docx)
+
 ### Course Resources
 
 [Course programme (PDF)](https://mcguinlu.github.io/ESI-ROB2-intro/resources/RoB2_Trainer_ESI_Programme.pdf)
